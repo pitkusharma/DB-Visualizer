@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain_google_genai
+sqlalchemy
+psycopg2
+PyMySQL
+pyodbc
+matplotlib
+ipykernel
+cryptography
