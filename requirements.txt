@@ -2,7 +2,7 @@ langchain
 langchain-community
 langchain_google_genai
 sqlalchemy
-psycopg2
+psycopg2-binary
 PyMySQL
 pyodbc
 matplotlib
