@@ -4,6 +4,8 @@ DB Visualizer harnesses the power of Large Language Models (LLMs) to let users *
 
 Users connect their database by providing connection details through the app's UI. Once connected, they can ask **complex queries** in natural language, and the app — powered by LLMs — takes care of query generation and result visualization.
 
+try the app: https://db-visualizer-bgynhqvrgm79ldqhakrgi5.streamlit.app/
+
 ---
 
 ## 🚀 Features
