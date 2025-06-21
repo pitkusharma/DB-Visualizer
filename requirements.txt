@@ -8,3 +8,4 @@ pyodbc
 matplotlib
 ipykernel
 cryptography
+streamlit
