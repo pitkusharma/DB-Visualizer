@@ -93,6 +93,15 @@ You can run `debug.py` directly in PyCharm to test the Streamlit app outside the
 
 ![image](https://github.com/user-attachments/assets/f9f8cee8-940c-4b27-a589-c6e5e52b9e8b)
 
+Query: 
+1) I want you to group countries by the language spoken, 
+2) Now I want you to calculate the total number of people in each country that speaks this language, for that you will use population from country and percentage from country language table. sum the values to get total number of people for each language who speaks the language
+3) show top 25 result
+4) show plot and graph
+
+![image](https://github.com/user-attachments/assets/027a3837-0ef7-40c9-88b1-7818ee68216a)
+
+
 
 ---
 
