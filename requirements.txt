@@ -6,6 +6,7 @@ psycopg2-binary
 PyMySQL
 pyodbc
 matplotlib
+seaborn
 ipykernel
 cryptography
 streamlit
