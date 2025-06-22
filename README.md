@@ -63,7 +63,7 @@ pip install -r requirements.txt
 You must create a `.env` file in the project root with your credentials, like:
 
 ```
-GEMINI_API_KEY=your_gemini_api_key
+GOOGLE_API_KEY=your_google_api_key
 ```
 
 ---
@@ -72,7 +72,7 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ```bash
 # Run the Streamlit app
-streamlit run src/app.py  # Or whichever your main file is
+streamlit run src/app.py
 ```
 
 Then open your browser to: [http://localhost:8501](http://localhost:8501)
